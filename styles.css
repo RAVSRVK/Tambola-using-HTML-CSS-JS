@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: rgb(13, 177, 177);
+}
+h1 {
+  font-family: sans-serif;
+}
+h1:hover {
+  color: blueviolet;
+}
+button {
+  border-radius: 100px;
+  padding: 10px;
+  margin: 10px;
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #f70be3;
+  opacity: 0.5;
+}
+.container-fluid {
+  background-color: aqua;
+}
